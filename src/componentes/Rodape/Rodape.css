@@ -1,0 +1,25 @@
+.footer {
+    background-image: url("/public/imagens/fundo.png");
+    background-color: #6278F7;
+    height: 213px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    padding: 35px;
+    box-sizing: border-box;
+}
+
+.footer .sociais a {
+    margin: 0 30px;
+}
+
+.footer .creditos {
+    color: #FFF;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word
+}
